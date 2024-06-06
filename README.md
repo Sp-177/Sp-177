@@ -119,7 +119,6 @@ Beyond academics, I'm an active individual, holding a black belt in karate, show
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sp-177&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=Sp-177&theme=dracula&column=-1&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" />
-</div>
+ ## 📈 Stats and Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sp-177&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sp-177&layout=compact&theme=radical)

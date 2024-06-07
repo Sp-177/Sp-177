@@ -68,6 +68,8 @@ Beyond academics, I'm an active individual, holding a black belt in karate, show
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+  <img width="12" />
+<img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" style="background-color: #4F5B93; padding: 5px; border-radius: 5px;" />
 </div>
 
 ###
